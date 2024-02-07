@@ -1,0 +1,9 @@
+names:
+- Apple
+- Banana
+- Grape
+- Orange
+- Pineapple
+- Watermelon
+train: train_0.txt
+val: val_0.txt
